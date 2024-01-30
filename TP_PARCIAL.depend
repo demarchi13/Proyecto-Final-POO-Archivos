@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1698010278 source:c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"cargarCadena.h"
+	"clase_fecha.h"
+	"claseJugador.h"
+	"claseDeporte.h"
+	"archivoDeporte.h"
+	"subMenuDeportes.h"
+	"archivoJugador.h"
+	"submenuJugadores.h"
+	"claseEquipo.h"
+	"archivoEquipo.h"
+	"submenuEquipos.h"
+	"reportes.h"
+	"submenuReportes.h"
+	"configuraciones.h"
+	"subMenuConfiguraciones.h"
+
+1695591458 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\cargarcadena.h
+
+1696511260 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\clase_fecha.h
+
+1696197890 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\clasejugador.h
+
+1695840006 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\funcionesglobales.h
+
+1698008010 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\archivojugador.h
+
+1697916134 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\submenujugadores.h
+
+1696198110 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\clasedeporte.h
+
+1697926726 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\archivodeporte.h
+
+1696371204 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\submenudeportes.h
+
+1696512419 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\submenureportes.h
+
+1696473738 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\configuraciones.h
+
+1696457031 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\submenuconfiguraciones.h
+
+1696512397 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\reportes.h
+
+1698007365 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\claseequipo.h
+
+1698009781 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\archivoequipo.h
+
+1698010259 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp_parcial\submenuequipos.h
+
+1699472233 source:c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"cargarCadena.h"
+	"clase_fecha.h"
+	"claseTipoDeporte.h"
+	"archivoTipoDeporte.h"
+	"submenuTipoDeporte.h"
+	"claseEquipo.h"
+	"archivoEquipo.h"
+	"submenuEquipos.h"
+	"claseJugador.h"
+	"claseDeporte.h"
+	"archivoDeporte.h"
+	"subMenuDeportes.h"
+	"archivoJugador.h"
+	"submenuJugadores.h"
+	"reportes.h"
+	"submenuReportes.h"
+	"configuraciones.h"
+	"subMenuConfiguraciones.h"
+
+1699468542 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\cargarcadena.h
+
+1696511260 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\clase_fecha.h
+
+1699535695 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\clasejugador.h
+
+1699469369 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\clasedeporte.h
+
+1698522057 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\archivodeporte.h
+
+1696371204 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenudeportes.h
+
+1698522451 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\archivojugador.h
+
+1699466432 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenujugadores.h
+
+1699473170 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\claseequipo.h
+
+1698521009 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\archivoequipo.h
+
+1698020144 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenuequipos.h
+
+1699534664 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\reportes.h
+
+1699534429 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenureportes.h
+
+1699470462 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\configuraciones.h
+
+1699470657 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenuconfiguraciones.h
+
+1699468924 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\clasetipodeporte.h
+
+1698521009 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\archivotipodeporte.h
+
+1698086815 c:\users\enzo\desktop\utn\primer a—o - 2c\laboratorio 2\tp segundo parcial\tp segundo parcial\submenutipodeporte.h
+
